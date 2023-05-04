@@ -25,12 +25,12 @@
 
 <br>
 
-  - ## **Niv Mizzet**
-    - [ ] Thunderclap
-    - [ ] Miscast
-    - [ ] Misdirection
-    - [ ] Whir of Invention
-    - [ ] Red Elemental Blast
-    - [ ] Rapid Hybridization
-    - [ ] Lotus Bloom
-    - [ ] Saprazzan Skerry
+- ## **Niv Mizzet**
+  - [ ] Thunderclap
+  - [ ] Miscast
+  - [ ] Misdirection
+  - [ ] Whir of Invention
+  - [ ] Red Elemental Blast
+  - [ ] Rapid Hybridization
+  - [ ] Lotus Bloom
+  - [ ] Saprazzan Skerry
