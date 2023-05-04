@@ -1,7 +1,5 @@
-# My card wishlist
-
-## Commander
-- ### **Yuriko**
+# Commander
+- # **Yuriko**
     - [ ] Skullsnatcher
     - [ ] Mothdust Changeling
     - [ ] Mistblade Shinobi
@@ -27,7 +25,7 @@
 
 <br>
 
-  - ### **Niv Mizzet**
+  - ## **Niv Mizzet**
     - [ ] Thunderclap
     - [ ] Miscast
     - [ ] Misdirection
