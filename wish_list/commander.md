@@ -21,7 +21,8 @@
     - [ ] Mystic Remora
     - [ ] Underground River
     - [ ] Morphic Pool
-    - [ ] Clearwater Pathway // Murkwater Pathway
+    - [ ] Clearwater Pathway
+    - [ ] Novia // Murkwater Pathway
 
 <br>
 
