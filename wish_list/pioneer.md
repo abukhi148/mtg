@@ -1,16 +1,18 @@
 # [Mono White Humans](https://mtgmeta.io/decks/29034?rid=442302)
-    - Mutavault x 1
-    - Castle Ardenvale x 2
-    - Hopeful Initiate x 4
-    - Kytheon, Hero Of Akros x 1
-    - Lion Sash x 1
-    - Elite Spellbinder x 1
-    - Brutal Cathar x 4
-    - Adeline, Resplendent Cathar x 4
-    - Brave the Elements x 4
-    - Knight-Errant of Eos x 2
-    - Wedding Announcement x 2
-    - Guardian Of Faith x 2
+- Mutavault x 1
+- Castle Ardenvale x 2
+- Hopeful Initiate x 4
+- Kytheon, Hero Of Akros x 1
+- Lion Sash x 1
+- Elite Spellbinder x 1
+- Brutal Cathar x 4
+- Adeline, Resplendent Cathar x 4
+- Brave the Elements x 4
+- Knight-Errant of Eos x 2
+- Wedding Announcement x 2
+- Guardian Of Faith x 2
+
+<br>
 
 # [Rakdos Sacrifice](https://mtgmeta.io/decks/28949?rid=443321)
  - Sulfurous Springs x 2
