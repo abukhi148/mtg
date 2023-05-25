@@ -7,8 +7,3 @@
     - Morphic Pool
 
 <br>
-
-- ## **Niv Mizzet**
-  - Misdirection
-  - Lotus Bloom
-  - Saprazzan Skerry
